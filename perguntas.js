@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Quantos paulistas o Corinthians tem ',
+    'Quantos paulistas o Corinthians tem ?',
     'Em que ano o Corinthians ganhou a libertadores ?',
     'A capital da França é Paris'
 )
