@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'qual é a capita da Italia?',
+    'qual é a capital da Italia?',
     'A cidade de Roma'
 )
 
@@ -36,7 +36,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'qual é a capita da Inglaterra?',
+    'qual é a capital da Inglaterra?',
     'A cidade de Londres'
 )
 
